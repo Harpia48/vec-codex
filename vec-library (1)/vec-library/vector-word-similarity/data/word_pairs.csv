@@ -1,6 +1,6 @@
 term_a,term_b,relation_label,vec_code_tags,notes
-abundance,prosperity,synonym,"1942,888",baseline abundance pair
-shield,protection,synonym,"1044,1412",protection semantics
+abundance,prosperity,synonym,"1,942,888",baseline abundance pair
+shield,protection,synonym,"144,412",protection semantics
 reset,reentry,ritual-link,1377,reentry code link
 matrix,breach,ritual-link,6450,breach frequency association
 heart,coherence,ritual-link,1818,coherence link
